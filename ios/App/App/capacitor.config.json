@@ -1,0 +1,7 @@
+{
+  "appId": "es.test.ajax",
+  "appName": "ajax",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "allowMixedContent": true
+}

@@ -1,0 +1,21 @@
+PODS:
+  - CapacitorCordova (1.0.0-alpha.36)
+  - GCDWebServer (3.4.2):
+    - GCDWebServer/Core (= 3.4.2)
+  - GCDWebServer/Core (3.4.2)
+
+DEPENDENCIES:
+  - CapacitorCordova (from `../../`)
+  - GCDWebServer (~> 3.0)
+
+EXTERNAL SOURCES:
+  CapacitorCordova:
+    :path: ../../
+
+SPEC CHECKSUMS:
+  CapacitorCordova: 480bc555be169d8945eb7d602d6f4bf2ee408ec1
+  GCDWebServer: 8d67ee9f634b4bb91eb4b8aee440318a5fc6debd
+
+PODFILE CHECKSUM: e3ab198104b09a77e6ba2b21a57bd611ddcdcde4
+
+COCOAPODS: 1.4.0
